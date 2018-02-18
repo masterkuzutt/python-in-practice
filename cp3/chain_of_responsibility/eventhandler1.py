@@ -10,8 +10,10 @@
 # General Public License for more details.
 
 import sys
+# import Event
+# not good. don't want to have copy of shared files 
+sys.path.append('../../')
 import Event
-
 
 def main():
     print("Handler Chain #1")

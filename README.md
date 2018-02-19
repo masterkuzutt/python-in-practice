@@ -68,6 +68,7 @@ Chapter 3: Behavioral Design Patterns
 >   Memento (use pickle or json)
 
 >   Observer: observer1.py observer2.py
+    ➡ only observer.py exist 
 
 >   State: multiplexer1.py multiplexer2.py
 
@@ -78,6 +79,7 @@ Chapter 3: Behavioral Design Patterns
 >   Visitor (use map() or list comprehensions or a for loop)
 
 >   Case Study: Image/
+     ➡suspend to move 
 
 
 Chapter 4: High-Level Concurrency
@@ -92,6 +94,7 @@ Chapter 4: High-Level Concurrency
 >	[Recommends feedparser and lxml]
 
 >    Case Study: imagescale/ [Recommends Cython; numpy]
+     ➡suspend to move 
 
 
 Chapter 5: Extending Python [Only tested on Linux; should work cross-platform]
@@ -100,8 +103,10 @@ Chapter 5: Extending Python [Only tested on Linux; should work cross-platform]
 >    Hyphenate2/ [Requires Cython and libhyphen]
 
 >    benchmark_Scale.py Scale/Fast.pyx [Requires Cython; numpy]
+     ➡suspend to move Scale\ 
 
 >    Case Study: cyImage/ benchmark_Image.py imagescale-s.py
+     ➡suspend to move 
 
 >	imagescale-cy.py imagescale.py [Requires Cython; numpy]
 
@@ -136,6 +141,7 @@ Chapter 8: Openg GL 3D Graphics
 >    cylinder2.pyw
 
 >    gravitate3d.pyw
+     ➡suspend to move 
 
 
 Many chapters also require:
